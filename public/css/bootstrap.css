@@ -4312,6 +4312,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   height: 2px;
   border-radius: 1px;
 }
+.nav-header_left{
+  display: flex;
+  align-items: center;
+}
 .navbar-toggle .icon-bar + .icon-bar {
   margin-top: 4px;
 }

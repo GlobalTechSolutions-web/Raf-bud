@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "RAF-BUD",
+    "paragraph": "Wykończenia i remonty mieszkań"
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -21,33 +21,33 @@
   "Gallery": [
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "largeImage": "img/custom/1.jpg",
+      "smallImage": "img/custom/1.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "largeImage": "img/custom/2.jpg",
+      "smallImage": "img/custom/2.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "largeImage": "img/custom/5.jpg",
+      "smallImage": "img/custom/5.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "largeImage": "img/custom/2.jpg",
+      "smallImage": "img/custom/2.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "largeImage": "img/custom/2.jpg",
+      "smallImage": "img/custom/2.jpg"
     },
     {
       "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "largeImage": "img/custom/2.jpg",
+      "smallImage": "img/custom/2.jpg"
     },
     {
       "title": "Project Title",
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Pogodna 2, 15-354 Białystok",
+    "phone": "+48 577-517-615",
+    "email": "olechnorafal0508@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "WYBURZANIE I MUROWANIE ŚCIAN",
+      "text": "Wyburzenie ścian działowych, nośnych, z k/g, profesjonalnym sprzętem."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "INSTALACJE ELEKTRYCZNE",
+      "text": "Wykonujemy nowe instalacje elektryczne jak również naprawy i modernizacje istniejących."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "PODŁOGI",
+      "text": "Montaż deski barlineckiej, paneli podłogowych, układanie parkietu."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "INSTALACJE WOD-KAN",
+      "text": "  Wykonujemy instalacje sanitarne, centralnego ogrzewania CO w różnych technologiach.."
     }
   ]
 }

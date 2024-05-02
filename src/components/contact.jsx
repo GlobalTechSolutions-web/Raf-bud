@@ -1,4 +1,4 @@
-import { useState } from "react";
+import {useState} from "react";
 import emailjs from "emailjs-com";
 import React from "react";
 
@@ -8,21 +8,22 @@ const initialState = {
   message: "",
 };
 export const Contact = (props) => {
-  const [{ name, email, message }, setState] = useState(initialState);
+  const [{name, email, message}, setState] = useState(initialState);
 
   const handleChange = (e) => {
-    const { name, value } = e.target;
-    setState((prevState) => ({ ...prevState, [name]: value }));
+    const {name, value} = e.target;
+    setState((prevState) => ({...prevState, [name]: value}));
   };
-  const clearState = () => setState({ ...initialState });
-  
-  
+  const clearState = () => setState({...initialState});
+
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
+
+    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */
+    }
+
     emailjs
       .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
       .then(
@@ -57,7 +58,7 @@ export const Contact = (props) => {
                         id="name"
                         name="name"
                         className="form-control"
-                        placeholder="Name"
+                        placeholder="Twój email"
                         required
                         onChange={handleChange}
                       />
@@ -71,7 +72,7 @@ export const Contact = (props) => {
                         id="email"
                         name="email"
                         className="form-control"
-                        placeholder="Email"
+                        placeholder="Imię i nazwisko"
                         required
                         onChange={handleChange}
                       />
@@ -85,7 +86,7 @@ export const Contact = (props) => {
                     id="message"
                     className="form-control"
                     rows="4"
-                    placeholder="Message"
+                    placeholder="Treść wiadomości"
                     required
                     onChange={handleChange}
                   ></textarea>
@@ -100,7 +101,8 @@ export const Contact = (props) => {
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
-              <h3>Contact Info</h3>
+              <h3>Contact Info: </h3>
+              <h5>Rafał Olechno</h5>
               <p>
                 <span>
                   <i className="fa fa-map-marker"></i> Address
@@ -153,9 +155,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
+            &copy; 2024 Firma zajmująca się tworzeniem stron internetowych {" "}
+            <a href="https://globaltechsolution.netlify.app" rel="nofollow" target={'_blank'} className={'pointer'}>
+              GlobalTech Solutions
             </a>
           </p>
         </div>
