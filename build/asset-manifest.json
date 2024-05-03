@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GlobalTechSolutions-web/Raf-bud/static/css/main.ae42ac5f.css",
+    "main.js": "/GlobalTechSolutions-web/Raf-bud/static/js/main.a6930f2a.js",
+    "index.html": "/GlobalTechSolutions-web/Raf-bud/index.html",
+    "main.ae42ac5f.css.map": "/GlobalTechSolutions-web/Raf-bud/static/css/main.ae42ac5f.css.map",
+    "main.a6930f2a.js.map": "/GlobalTechSolutions-web/Raf-bud/static/js/main.a6930f2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.a6930f2a.js"
+  ]
+}
