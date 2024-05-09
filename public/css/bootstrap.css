@@ -2913,6 +2913,12 @@ select[multiple].input-lg {
   margin-bottom: 10px;
   color: #737373;
 }
+.sended{
+  text-transform: uppercase;
+color: #fff;
+  margin-left: 4rem;
+  font-size: 18px;
+}
 @media (min-width: 768px) {
   .form-inline .form-group {
     display: inline-block;

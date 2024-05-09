@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "RAF-BUD",
-    "paragraph": "Wykończenia i remonty mieszkań"
+    "title": "",
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Siedziba firmy Raf-Bud Rafał Olechno usługi Remontowo-budowlane, znajduje się w miejscowości Białystok w województwie Podlaskim.W branży Budowa i wykończenia wnętrz pod klucz działam od 2023r.Możesz mieć pewność tego , że wszystkie zlecenia realizuję z należytą starannością . Stawiam na rozwój , bo doskonale wiem , jak dynamiczny jest sektor , w którym pracuję .Dążę do doskonałości i chce spełniać oczekiwania najbardziej wymagających klientów.Wybierz moją firmę - doradztwo przy zakupach .Napisz lub zadzwoń w celu ustalenia szczegółów współpracy . Nie zastanawiaj się dłużej i już dziś dołącz do grona moich klientów.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,113 +20,127 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/1.jpg",
       "smallImage": "img/custom/1.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/2.jpg",
       "smallImage": "img/custom/2.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/5.jpg",
       "smallImage": "img/custom/5.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/3.jpeg",
       "smallImage": "img/custom/3.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/9.jpeg",
       "smallImage": "img/custom/9.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/4.jpeg",
       "smallImage": "img/custom/4.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/6.jpeg",
       "smallImage": "img/custom/6.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/7.jpeg",
       "smallImage": "img/custom/7.jpeg"
     },
     {
-      "title": "Project Title",
+      "title": "Otwórz zdjęcie",
       "largeImage": "img/custom/8.jpeg",
       "smallImage": "img/custom/8.jpeg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/1.png",
+      "name": "Malowanie"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/2.png",
+      "name": "Szpachlowanie"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/3.png",
+      "name": "Tynkowanie"
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/4.png",
+      "name": "Tapetowanie"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/5.png",
+      "name": "Sufity podwieszane"
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "img/6.png",
+      "name": "Ścianki i zabudowy g/k"
+    },
+    {
+      "icon": "img/7.png",
+      "name": "Instalacje elektryczne"
+    },
+    {
+      "icon": "img/8.png",
+      "name": "Instalacje wodno-kanalizacyjne"
+    },
+    {
+      "icon": "img/9.png",
+      "name": "Montaż paneli"
+    },
+    {
+      "icon": "img/10.png",
+      "name": "Montaż glazury i terakoty"
+    },
+    {
+      "icon": "img/11.png",
+      "name": "Wylewki I wiele innych"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Polecam zdecydowanie usługi firmy RAF-Bud!\nFachowo i rzetelnie przeprowadzona została instalacja kanalizacji w starym domu. W kilka dni mieliśmy zainstalowany nowy zbiornik i poprowadzone nowe rury wraz z wykopem, izolacją i szeregiem innych prac, które wymagały modernizacji. Kompetentnie i z ogromnym zaangażowaniem w swoją prace mamy także postawiony garaż na nowych fundamentach z izolacją i podjazdem.",
+      "name": "Beata Ada"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Przeprowadzony remont generalny mieszkania. Układanie terakoty, glazury i paneli. Do tego szpachlowanie i malowanie. Wszelkie przeróbki hydrauliczne. Ogromną ilość pracy,  a efekt końcowy zachwycający. Profesjonalizm, wsparcie w doborze materiałów. POLECAM",
+      "name": "Anna Wróblewska"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Serdecznie polecam. Bardzo zdolny Wykonawca i pomocny co w dzisiejszych czasach jest cenną cechą.",
+      "name": "Iwona Strzałkowska"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Polecam - innowacyjne pomysły i fachowo wykonana praca.",
+      "name": "Andrzej Wendołowicz"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Bardzo rzetel y pracownik i świetny fachowiec.",
+      "name": "Wojciech Odachowski"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Polecam serdecznie! Pełen profesjonalizm.",
+      "name": "Marta Łopianowska"
     }
   ],
   "Team": [
@@ -156,8 +170,8 @@
     "phone": "+48 577-517-615",
     "email": "olechnorafal0508@gmail.com",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "twitter": "https://www.instagram.com/rafbudbialystok?igsh=MTQzczg0MW1kYTFhNg==\n",
+    "youtube": "https://www.google.com/maps/place/Remonty+Mieszka%C5%84+Bia%C5%82ystok+Raf-Bud+Rafa%C5%82+Olechno/@53.1194504,23.1233392,14z/data=!4m16!1m9!3m8!1s0xa93cb4e3f8aa3c39:0xb9e87ab4d7efad4b!2sRemonty+Mieszka%C5%84+Bia%C5%82ystok+Raf-Bud+Rafa%C5%82+Olechno!8m2!3d53.1184037!4d23.1426191!9m1!1b1!16s%2Fg%2F11vpsf16_h!3m5!1s0xa93cb4e3f8aa3c39:0xb9e87ab4d7efad4b!8m2!3d53.1184037!4d23.1426191!16s%2Fg%2F11vpsf16_h?authuser=0&hl=en&entry=ttu"
   },
   "Features": [
     {
